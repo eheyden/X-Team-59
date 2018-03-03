@@ -6,7 +6,7 @@ This document describes what X-team members must do to complete X-Team Exercise 
 
 All Team Members must complete this step.
 
-  1. Go to GitHub.com.
+  1. Go to GitHub.com
   2. Create a personal account using your wisc.edu email address
   3. Record your GitHub account username and password.
   4. Share your GitHub account username with your X-team members.
