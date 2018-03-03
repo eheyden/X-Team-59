@@ -11,10 +11,8 @@ and missed deadlines.
 ## How we will assign (and reassign) tasks
 Chat through Slack App and discuss on the task assignment.
 ## How will we will track progress (and follow-up) on completion of tasks
-
-
-
-## How will we communicate difficulties with a task assigned to us
+Each team member shall do a periodical report about the progress of his/her individual tasks
+## How will will communicate difficulties with a task assigned to us
 
 
 
