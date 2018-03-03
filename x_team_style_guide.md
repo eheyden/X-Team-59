@@ -4,7 +4,7 @@
 
 ## Naming conventions
 
-<brief statement describing your team's naming conventions>
+using camel case for names - For example, camelCase
 
 ### Examples
 * interfaces -- \<specifier\> Interface Foo {}
