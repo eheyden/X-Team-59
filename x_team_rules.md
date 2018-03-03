@@ -9,9 +9,7 @@ and will hopefully lead to productive team work with fewer conflicts
 and missed deadlines.
 
 ## How we will assign (and reassign) tasks
-
-
-
+Chat through Slack App and discuss on the task assignment.
 ## How will we will track progress (and follow-up) on completion of tasks
 
 
