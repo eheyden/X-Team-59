@@ -1,6 +1,6 @@
 # X-Team 59 Style Guide
 
-Helps keeping code consistent and helps develop good habits for the future as well.
+Helps in keeping code consistent and helps develop good habits for the future as well.
 
 ## Naming conventions
 
