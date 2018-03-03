@@ -14,7 +14,7 @@ Chat through Slack App and discuss on the task assignment.
 
 
 
-## How will will communicate difficulties with a task assigned to us
+## How will we communicate difficulties with a task assigned to us
 
 
 
