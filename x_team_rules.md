@@ -17,7 +17,7 @@ and missed deadlines.
 ## How we will communicate difficulties with a task assigned to us
  - Message on slack and communicate about the problem
 ## How we will back up each other to ensure that deadlines are not missed
-- By checking on each other through the weekly report on Slack.
+- By checking on each other through the weekly report on Slack and finish work 2 days before the deadline.
 
 
 
