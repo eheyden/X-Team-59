@@ -23,7 +23,7 @@ For example,
 	/**
 	 * @throws IllegalArgumentException
 	 *             if null is passed
-	 * @param item
+	 * @param item 
 	 *            is what needs to be looked up
 	 * @return true if item is in BST, or returns false
 	 */
