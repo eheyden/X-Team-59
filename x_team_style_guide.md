@@ -3,7 +3,7 @@ Helps keeping code consistent and helps develop good habits for the future as we
 
 ## Naming conventions
 
-<brief statement describing your team's naming conventions>
+using camel case for names - For example, camelCase
 
 ### Examples
 * interfaces
