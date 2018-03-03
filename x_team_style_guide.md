@@ -38,6 +38,7 @@ For example,
 	* javadoc
 * methods
 	* javadoc, include override
+	* if method is split into sections, separate with empty lines
 * coding style (brackets, horizontal, and vertical spacing) for:
   * if statements
   	* the bracket is on the first line, example: 
