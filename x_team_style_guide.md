@@ -1,6 +1,5 @@
 # X-Team 59 Style Guide
-
-<brief description of your team's opinion or philosophy regarding Style Guides>
+Helps keeping code consistent and helps develop good habits for the future as well.
 
 ## Naming conventions
 
