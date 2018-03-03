@@ -9,7 +9,9 @@ and will hopefully lead to productive team work with fewer conflicts
 and missed deadlines.
 
 ## How we will assign (and reassign) tasks
-Chat through Slack App and discuss on the task assignment.
+ - Chat through Slack App and discuss on the task assignment.
+ - Every team member is responsible for finding a substitute in the team when he/she cannot finish the tasks due to personal reasons.
+ - Communication is the key.
 ## How we will track progress (and follow-up) on completion of tasks
 Each team member shall do a periodical report about the progress of his/her individual tasks
 ## How we will communicate difficulties with a task assigned to us
