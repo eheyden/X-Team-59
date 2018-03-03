@@ -20,7 +20,7 @@ using camel case for names - For example, camelCase
 ## Commenting style for public and private members of a class or interface:
 Following the java doc pattern of commenting 
 For example,
-/**
+	/**
 	 * @throws IllegalArgumentException
 	 *             if null is passed
 	 * @param item
