@@ -8,10 +8,6 @@
        * GitHub username 3: KyreneHu
        * GitHub username 4: ribhavh
        * GitHub username 5: ZhichunHuang
-   * When did you complete this exercise? 
-   * How long did it take your team to complete this exercise? 
-=======
-       * GitHub username 5:
    * When did you complete this exercise? March 3
    * How long did it take your team to complete this exercise? 1 hour 30 minutes
 
