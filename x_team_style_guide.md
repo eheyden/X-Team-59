@@ -18,8 +18,15 @@ using camel case for names - For example, camelCase
 * class constants -- \<specifier\> \<type\> FOO_CONSTANT
 
 ## Commenting style for public and private members of a class or interface:
-
-<brief statement of your team's commenting style>
+Following the java doc pattern of commenting 
+For example,
+/**
+	 * @throws IllegalArgumentException
+	 *             if null is passed
+	 * @param item
+	 *            is what needs to be looked up
+	 * @return true if item is in BST, or returns false
+	 */
 
 ### Examples
 
