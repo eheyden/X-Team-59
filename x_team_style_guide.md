@@ -23,21 +23,42 @@ For example,
 	/**
 	 * @throws IllegalArgumentException
 	 *             if null is passed
-	 * @param item 
+	 * @param item
 	 *            is what needs to be looked up
 	 * @return true if item is in BST, or returns false
 	 */
 
 ### Examples
 
-* classes
+* classes 
+	* class headers same as javadoc
 * fields
+	* use // after the variable explaining what it is doing
 * constructors
+	* javadoc
 * methods
+	* javadoc, include override
 * coding style (brackets, horizontal, and vertical spacing) for:
   * if statements
+  	* the bracket is on the first line, example: 
+	if(){
+		return;
+	}
+	* default setting for spacing
+	* use tabs
+	
   * switch statement
+  	* always include a default case
+	
   * while loops
+  	* same as if statements
+	* add comment of what this is doing
+	
   * for loops
+  	* same as if statements
+	* add comment of what this is doing
+	
   * enhanced for loops
+  	* same as for loops
+  	* add comment of what this is doing
 
