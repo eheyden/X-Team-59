@@ -13,7 +13,7 @@ and missed deadlines.
  - Every team member is responsible for finding a substitute in the team when he/she cannot finish the tasks due to personal reasons.
  - Communication is the key.
 ## How we will track progress (and follow-up) on completion of tasks
-Each team member shall do a periodical report about the progress of his/her individual tasks
+- Each team member shall do a periodical report about the progress of his/her individual tasks
 ## How we will communicate difficulties with a task assigned to us
  - Message on slack and communicate about the problem
 ## How we will back up each other to ensure that deadlines are not missed
