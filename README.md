@@ -4,9 +4,9 @@
 2. Answer these questions
    * What are the GitHub usernames of your team members?
        * GitHub username 1: RoaringLichking
-       * GitHub username 2:  eheyden
+       * GitHub username 2: eheyden
        * GitHub username 3: KyreneHu
-       * GitHub username 4:
+       * GitHub username 4: ribhavh
        * GitHub username 5:
    * When did you complete this exercise? 
    * How long did it take your team to complete this exercise? 
